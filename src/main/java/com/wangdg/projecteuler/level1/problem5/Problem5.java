@@ -26,8 +26,8 @@ public class Problem5 {
          */
 
         factors = new HashSet<>();
-        factors.add(16);
-        factors.add(9);
+        factors.add(16); // 2^4
+        factors.add(9); // 2^3
         factors.add(5);
         factors.add(7);
         factors.add(11);
