@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level1.problem8;
+package com.wangdg.projecteuler.level1.problem08;
 
 import java.util.ArrayList;
 import java.util.List;

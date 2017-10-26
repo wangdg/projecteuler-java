@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level1.problem3;
+package com.wangdg.projecteuler.level1.problem03;
 
 import org.apache.commons.math3.primes.Primes;
 

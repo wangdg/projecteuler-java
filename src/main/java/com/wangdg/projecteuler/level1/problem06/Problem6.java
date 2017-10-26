@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level1.problem6;
+package com.wangdg.projecteuler.level1.problem06;
 
 /**
  The sum of the squares of the first ten natural numbers is,

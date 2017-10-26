@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level1.problem4;
+package com.wangdg.projecteuler.level1.problem04;
 
 import org.apache.commons.lang3.ArrayUtils;
 

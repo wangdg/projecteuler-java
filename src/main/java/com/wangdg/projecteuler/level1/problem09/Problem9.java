@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level1.problem9;
+package com.wangdg.projecteuler.level1.problem09;
 
 /**
  A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
