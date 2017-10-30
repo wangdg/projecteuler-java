@@ -1,7 +1,6 @@
 package com.wangdg.projecteuler.level1.problem16;
 
 import java.math.BigInteger;
-import java.util.Arrays;
 
 /**
  2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
