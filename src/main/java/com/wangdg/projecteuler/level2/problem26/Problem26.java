@@ -1,4 +1,4 @@
-package com.wangdg.projecteuler.level2;
+package com.wangdg.projecteuler.level2.problem26;
 
 /**
 
